@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1d2a24"/>
+  <!-- dumbbell: plates + handle -->
+  <rect x="112" y="176" width="44" height="160" rx="10" fill="#eceee9"/>
+  <rect x="160" y="200" width="32" height="112" rx="8" fill="#eceee9"/>
+  <rect x="356" y="176" width="44" height="160" rx="10" fill="#eceee9"/>
+  <rect x="320" y="200" width="32" height="112" rx="8" fill="#eceee9"/>
+  <rect x="192" y="240" width="128" height="32" fill="#eceee9"/>
+  <!-- band wrapped around the handle -->
+  <rect x="236" y="226" width="40" height="60" rx="6" fill="#f0b429"/>
+</svg>
